@@ -1,1 +1,1 @@
-# codedex-cafe-finder-template
+# Codédex Cafe Finder TEMPLATE
